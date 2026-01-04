@@ -1,0 +1,117 @@
+【RPGツクール　プラグイン】
+トリアコンタン 様
+PluginCommonBase,FontLoad,BackUpDatabase,DevToolsManage,CustomizeConfigDefault,templateEvent,WindowBackImage,
+ExtraGauge,ExtraWindow,MessageWindowHidden,MenuSubCommand,ApngPicture,PictureControlExtend,PictureCallCommon,
+DTextPicture,PicturePriorityCustomize,MessageSkip,SimpleVoice,RetryBattle
+	
+奏ねこま 様
+MPI_pictureOnWindow
+	
+木製ペンギン 様
+MPP_MessageEX,MPP_MapLight,MPP_MapLightOp2,MPP_DeleteSelefSwitch
+
+Yoji Ojima 様
+AltMenuScreen,ButtonPicture,TextPicture
+	
+ケケー 様
+Keke_TimingCommon,keke_VariableActorCommand
+	
+Artemis 様
+ARTM_PlayerSensorMZ
+	
+ルル 様
+LL_StandingPicture
+	
+神無月サスケ 様
+HideStatusOnBattle
+	
+Ruたん 様
+TorigoyaMZ_QuickSkill
+	
+あわやまたな 様
+SwitchStatement
+	
+砂川赳 様
+NRP_BattleEventEXMZ,NRP_BattleParalllelCommon
+	
+NUUN 様
+NUUN_EnemyPosition
+	
+tomoaky 様
+TMMaxItems
+	
+茶の助 様
+TYA_BattleMessageCustom
+	
+奈々 様
+N7t_BattlebackScalingValue
+	
+Moghunter 様
+MOG_TitleLayers
+
+
+【RPGツクール　マップチップ】
+現代日本都市タイルセット (C) Grayfax software 
+KR現代の町タイル-内装 (C)Kokoro reflections
+KRモダン病院タイルセット (C)Kokoro reflections
+KR現代の町タイル (C)Kokoro reflections
+KR工場のタイルセット (C)Kokoro reflections
+KR高層ビルタイルセット (C)Kokoro reflections
+KR学校タイルセット (C)Kokoro reflections
+Amusement Park!Tile Set (C) WataruNakanami.
+モダン深夜の都市タイル (C) Kaue Luchetta
+モダンインテリアタイル (C) Kaue Luchetta
+
+BIT/O 様
+意識高い系カフェセット
+
+ぴぽや倉庫 様
+汎用アイテムアイコン
+
+ぬのしせ。 様
+RPGツクールMV・MZ用 マップチップ・タイルセット06 『市民プール/スポーツジム』,RPGツクール用 マップチップ 『地下鉄』
+
+よわぴよ 様
+よわぴよマップチップ素材集【 イベント・矢印 】
+
+コミュ将 様
+学校タイルセット
+	
+
+【フォント】
+油性マジック (M+ FONT LICENSE)
+M PLUS 2P (M+ FONT LICENSE)
+
+
+【サウンド】
+Diebrust(ディーブルスト) 様
+色んな効果音集100
+https://www.dlsite.com/maniax/work/=/product_id/RJ276666.html
+
+茶葉堂 様
+R18ぐちゅぐちゅ効果音集
+
+OtoLogic 様
+
+syu 様
+
+SAKURA BEATZ.JP 様
+
+yuhei komatsu 様
+
+MagaMaga 様
+
+alaki paca 様
+
+
+【グラフィック】
+みにくる背景CG素材集『レジャー・公共施設編』『学園編』『店舗・施設編』 （c）みにくる
+
+
+【その他】
+ヒロインキャラクタージェネレーター6 MZ (C) 2022 Gee-kun-soft
+異世界ヒロインジェネレーターDX MZ (C)2023 Gee-kun-soft
+
+Krachware(クラハウェア) 様
+ウィンドウ＆ＵＩパーツ素材セット３
+	
