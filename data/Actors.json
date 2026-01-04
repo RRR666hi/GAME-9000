@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"charaSweet","classId":1,"equips":[0,2,8,14,20],"faceIndex":3,"faceName":"Sweet1","traits":[],"initialLevel":15,"maxLevel":15,"name":"唯叶","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":5,"characterName":"charaSweet","classId":2,"equips":[0,3,0,14,19],"faceIndex":2,"faceName":"Sweet1","traits":[],"initialLevel":15,"maxLevel":15,"name":"ティアスイート","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":4,"characterName":"charaSweet","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":14,"maxLevel":14,"name":"陽向","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"charaSweetdown","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":15,"maxLevel":99,"name":"愛依","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":3,"characterName":"charaSweet","classId":1,"equips":[1,2,8,14,20],"faceIndex":1,"faceName":"Sweet1","traits":[],"initialLevel":15,"maxLevel":15,"name":"唯叶下着","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":3,"characterName":"charamob2","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Sweet1","traits":[],"initialLevel":15,"maxLevel":99,"name":"愛依制服","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":7,"characterName":"charaSweet","classId":5,"equips":[0,4,0,15,22],"faceIndex":4,"faceName":"Sweet1","traits":[],"initialLevel":20,"maxLevel":99,"name":"ティアウィスプ","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":7,"characterName":"charaSweetdown","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Sweet1","traits":[],"initialLevel":15,"maxLevel":99,"name":"愛依体操服","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":4,"characterName":"charamob2","classId":5,"equips":[0,4,0,15,22],"faceIndex":4,"faceName":"Sweet1","traits":[],"initialLevel":20,"maxLevel":99,"name":"店長","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
